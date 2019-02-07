@@ -1,7 +1,7 @@
 import tensorflow as tf, sys
 import numpy as np
 import binascii
-import cv2
+#import cv2
 # #vidcap = cv2.VideoCapture('testvideo.mkv')
 # success, image = vidcap.read()
 # count=0
